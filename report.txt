@@ -1,0 +1,4 @@
+Total reviews: 5
+postive reviews: 2
+negative reviews: 2
+neutral reviews: 1
